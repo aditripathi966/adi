@@ -42,8 +42,8 @@ header{
                 /* imagee */
 
 .me{
-    background: linear-gradient( var(--color-primary),var(--color-primary) );
-    /* background-color: red; */
+    /* background: linear-gradient( var(--color-primary),var(--color-primary) ); */
+    background-color: #3a4ca5;
     width: 22rem;
     height: 30rem;
     position: absolute;
