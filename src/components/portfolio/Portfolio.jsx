@@ -27,7 +27,7 @@ const data = [
     image: IMG3,
     title: 'Travel-Web',
     github: 'https://github.com/aditripathi966/Travel-website.github.io',
-    demo: '------------------------------'
+    demo: 'https://aditripathi966.github.io/Responsive_Website_Travel/'
   },
   {
     id:4,
